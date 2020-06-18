@@ -147,7 +147,7 @@ div.whole {
 }
 
 section#mainBody {
-    height: 450px;
+    height: 500px;
     width: 80%;
     float: right;
     margin: 0 0 2.0em;
@@ -163,7 +163,7 @@ section#mainBody {
    }
    section div.panel{
        text-align: center;
-       height: 320px;
+       height: 400px;
     float: right;
     position: relative;
     width: 185px;
@@ -177,7 +177,7 @@ section#mainBody {
 /*Sidebar Section*/
 section#sidebar {
     width: 20%;
-    height: 450px;
+    height: 500px;
     float: left;
     position: relative;
     display: block;
